@@ -3,9 +3,15 @@ that is a sum up of my course and tp of Digital Data Science from M2 Data mining
 
 ## Step 1 : ML 
 > Python
+
 > Numpy
+
 > scikitLearn
+
 > Pandas
+
 > Matplotlib
+
+> ...
 
 ## Step 2 : Deep Learning
